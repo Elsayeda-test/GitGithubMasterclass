@@ -11,5 +11,4 @@ while True:
     ques =input("What would you say to me, the almighty computer hivemind?")
     evil_computer(ques)
 print ("This is different, isn't it?")
-#this message was added in github
-#this message was added in github after setting up tracking
+#status
