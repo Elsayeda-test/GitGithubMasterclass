@@ -10,4 +10,4 @@ def evil_computer(string):
 while True:
     ques =input("What would you say to me, the almighty computer hivemind?")
     evil_computer(ques)
-    
+print ("This is different, isn't it?")  
