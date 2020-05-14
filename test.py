@@ -12,9 +12,9 @@ def evil_computer(string):
 while True:
     ques=input("What would you say to me, the almighty computer hivemind?")
     if ques == ("shutdown"):
-        print ("NOOOO my ONE weakness! bleep bloop bloop beeeeeeeeeeeeeeeeeep...........")
+        print ("NOOOO my ONE weakness! bleep bloop bloop beeeeeeeeeeeeeeeeeeep...........")
         break
     else:
         evil_computer(ques)
 print ("This is different, isn't it?")
-#status: one less "e" in the in the computer's bleep
+#added one more "e" to the bleep
