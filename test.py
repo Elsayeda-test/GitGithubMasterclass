@@ -17,4 +17,4 @@ while True:
     else:
         evil_computer(ques)
 print ("This is different, isn't it?")
-#status: one less "e" in the in the computer's bleep
+#added one more "e" to the bleep
