@@ -12,7 +12,7 @@ def evil_computer(string):
 while True:
     ques=input("What would you say to me, the almighty computer hivemind?")
     if ques == ("shutdown"):
-        print ("NOOOO my ONE weakness! bleep bloop bloop beeeeeeeeeeeeeeeep...........")
+        print ("NOOOO my ONE weakness! bleep bloop bloop beeeeeeeeeeeeeeeeeep...........")
         break
     else:
         evil_computer(ques)
